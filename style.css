@@ -1,0 +1,211 @@
+h1{
+   font-family: fantasy;text-align: center;font-size: 300%;text-shadow: 3px 3px 3px grey;transition: 2sec;
+}
+h1:hover{transform: scale(1.9);
+}
+.face{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	bottom: 120px;
+	margin: auto;
+	height: 90px;
+	width: 100px;
+	background: white;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+.head{
+	position: absolute;
+	top: 60px;
+	left: 0px;
+	right: 0px;
+	bottom: 200px;
+	margin: auto;
+	height: 40px;
+	width: 70px;
+	background: black;
+	border-bottom-right-radius: 20px;
+	border-bottom-left-radius: 20px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+.body{
+	position: absolute;
+	top: 180px;
+	left: 0px;
+	right: 0px;
+	bottom: 50px;
+	margin: auto;
+	height: 150px;
+	width: 100px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 50px;
+	border-bottom-right-radius: 50px;
+	background: white;
+}
+
+.left{
+	position: absolute;
+	top: 180px;
+	left: 280px;
+	right: 500px;
+	bottom: 150px;
+	margin: auto;
+	height: 30px;
+	width: 100px;
+	border-bottom-left-radius: 60px;
+	background: white;
+	transition: 2sec;
+}
+.left:hover{
+	position: absolute;
+	top: 180px;
+	left: 200px;
+	right: 500px;
+	bottom: 150px;
+	margin: auto;
+	height: 30px;
+	width: 100px;
+	border-bottom-left-radius: 60px;
+	background: white;
+	transition: 2sec;
+	} 
+
+.right{
+	position: absolute;
+	top: 180px;
+	left: 500px;
+	right: 280px;
+	bottom: 150px;
+	margin: auto;
+	height: 30px;
+	width: 100px;
+	border-bottom-right-radius: 60px;
+	background: white;
+}
+.right:hover{
+	position: absolute;
+	top: 180px;
+	left: 500px;
+	right: 200px;
+	bottom: 150px;
+	margin: auto;
+	height: 30px;
+	width: 100px;
+	border-bottom-right-radius: 60px;
+	background: white;
+}
+.eye1{
+position: absolute;
+	top: 5px;
+	left: 270px;
+	right: 300px;
+	bottom: 150px;
+	margin: auto;
+	height: 5px;
+	width: 10px;
+	border-bottom-left-radius: 50px;
+	border-bottom-right-radius: 50px;
+	background: blue;
+}
+.eye1:hover{
+	position: absolute;
+	top: 5px;
+	left: 270px;
+	right: 300px;
+	bottom: 150px;
+	margin: auto;
+	height: 5px;
+	width: 10px;
+	border-bottom-left-radius: 50px;
+	border-bottom-right-radius: 50px;
+	background: black;
+	transition: 2sec;
+}
+.eye2{
+position: absolute;
+	top: 5px;
+	left:300px;
+	right: 270px;
+	bottom: 150px;
+	margin: auto;
+	height: 5px;
+	width: 10px;
+	border-bottom-left-radius: 50px;
+	border-bottom-right-radius: 50px;
+	background: blue;
+}
+.eye2:hover{
+	position: absolute;
+	top: 5px;
+	left:300px;
+	right: 270px;
+	bottom: 150px;
+	margin: auto;
+	height: 5px;
+	width: 10px;
+	border-bottom-left-radius: 50px;
+	border-bottom-right-radius: 50px;
+	background: black;
+	transition: 2sec;
+}
+.leg1{
+position: absolute;
+	top: 400px;
+	left: 250px;
+	right: 300px;
+	bottom: 100px;
+	margin: auto;
+	height: 20px;
+	width: 30px;
+	border-top-left-radius: 50px;
+	border-top-right-radius: 50px;
+	background: white;
+}
+.leg1:hover{
+	position: absolute;
+	top: 400px;
+	left: 250px;
+	right: 300px;
+	bottom: 80px;
+	margin: auto;
+	height: 20px;
+	width: 30px;
+	border-top-left-radius: 50px;
+	border-top-right-radius: 50px;
+	background: white;
+}
+.leg2{
+position: absolute;
+	top: 400px;
+	left: 300px;
+	right: 250px;
+	bottom: 100px;
+	margin: auto;
+	height: 20px;
+	width: 30px;
+	border-top-left-radius: 50px;
+	border-top-right-radius: 50px;
+	background: white;
+}
+.leg2:hover{
+	position: absolute;
+	top: 400px;
+	left: 300px;
+	right: 250px;
+	bottom: 80px;
+	margin: auto;
+	height: 20px;
+	width: 30px;
+	border-top-left-radius: 50px;
+	border-top-right-radius: 50px;
+	background: white;animation-duration: 4sec;
+}
+.back: hover{
+	color: red;
+}
